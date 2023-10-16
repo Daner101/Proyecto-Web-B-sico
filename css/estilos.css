@@ -16,6 +16,10 @@
     transition: all ease .3s;
 }
 
+body{
+    min-height: 100%;
+}
+
 .main-container{
     background: var(--background);
     width: 100%;
